@@ -1,0 +1,2122 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+<figures>
+            
+    <figure>
+                    
+        <id>Alfie</id>
+                    
+        <name>Alfie</name>
+                    
+        <appearance>male</appearance>
+                    
+        <skin>light brown</skin>
+                    
+        <lips>red</lips>
+                    
+        <hair>dark brown</hair>
+                    
+        <facing>right</facing>
+                
+    </figure>
+            
+    <figure>
+                    
+        <id>Gerry</id>
+                    
+        <name>Gerry</name>
+                    
+        <appearance>male</appearance>
+                    
+        <skin>olive</skin>
+                    
+        <hair>black</hair>
+                    
+        <facing>right</facing>
+                
+    </figure>
+            
+    <figure>
+                    
+        <id>Betty</id>
+                    
+        <name>Betty</name>
+                    
+        <appearance>female</appearance>
+                    
+        <facing>right</facing>
+                
+    </figure>
+        
+</figures>
+	<scene>
+                
+    <panel>
+                        
+        <pose>arriving</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>I am going -&gt; Voy</content>
+                        
+        <setting>airport</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>introducing</pose>
+                        
+        <facing>right</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>You are going -&gt; Vas a</content>
+                        
+        <setting>airport</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>surprised</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>He is going -&gt; Él va</content>
+                        
+        <setting>dungeon no bars</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>banishing</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>She is going -&gt; Ella va</content>
+                        
+        <setting>checkpoint barricade</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>rollerskating</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>We are going -&gt; Vamos</content>
+                        
+        <setting>park bench</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>rewarding</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>You are going (plural) -&gt; Ustedes van</content>
+                        
+        <setting>school courtyard</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>surprised in spacesuit</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>They are going -&gt; Ellos van</content>
+                        
+        <setting>lunar lander ascending from the moon</setting>
+                    
+    </panel>
+            
+</scene>
+
+	<scene>
+                
+    <rubric>
+                        
+        <image>cowboys and idioms</image>
+                        
+        <above>Practica español </above>
+                        
+        <below>Practice Spanish</below>
+                        
+        <duration>10000</duration>
+                    
+    </rubric>
+            
+</scene>
+
+	<scene>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Ugh, morning already?</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Ugh, ¿ya es de mañana?</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>kitchen</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Cereal time!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¡Hora del cereal!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>kitchen</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Mmm, this is good!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Mmm, ¡esto está bueno!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>kitchen</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>I’m ready to tackle the day!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¡Estoy listo para enfrentar el día!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>kitchen</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Bye! See you later!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¡Adiós! ¡Hasta luego!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>welcome mat</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Ugh, what time is it?</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Ugh, ¿qué hora es?</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>I overslept again</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Me desperté tarde otra vez</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>bedroom</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Cereal time!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¡Hora del cereal! ¡No puedo empezar el día sin él!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>kitchen</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Wait, what is this taste?</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Espera, ¿qué es este sabor?</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>This definitely isn’t right</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Esto definitivamente no está bien</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>kitchen</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>I don’t feel so good</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>No me siento muy bien</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Somethings off</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Algo está mal</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>kitchen</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Oh no, not now!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¡Oh no, no ahora!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>I can’t believe this is happening!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¡No puedo creer que esto esté sucediendo!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>kitchen</setting>
+                    
+    </panel>
+            
+</scene>
+
+	<scene>
+                
+    <panel>
+                        
+        <left>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                        
+                <pose>regaining consciousness</pose>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Resolute</content>
+                                    
+            </balloon>
+                            
+        </left>
+                        
+        <setting>dojo</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <left>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                        
+                <pose>regaining consciousness</pose>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Decidido</content>
+                                    
+            </balloon>
+                            
+        </left>
+                        
+        <setting>dojo</setting>
+                    
+    </panel>
+            
+</scene>
+
+	<scene>
+                
+    <panel>
+                        
+        <pose>serving dinner</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>You eat -&gt; Tú comes</content>
+                        
+        <setting>kitchen</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>gossiping about</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>He eats -&gt; Ellos son</content>
+                        
+        <setting>restaurant</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>watering</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>She eats -&gt; Ellas</content>
+                        
+        <setting>food truck</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>sweet</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>We eat -&gt; Comemos</content>
+                        
+        <setting>farm</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>greeting</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>You eat (plural) -&gt; Ustedes comen</content>
+                        
+        <setting>cafeteria</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>cutting the cheese</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>They eat -&gt; Ellos comen</content>
+                        
+        <setting>dining room</setting>
+                    
+    </panel>
+            
+</scene>
+
+	<scene>
+                
+    <panel>
+                        
+        <left>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                        
+                <pose>timekeeping</pose>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Anytime</content>
+                                    
+            </balloon>
+                            
+        </left>
+                        
+        <right>
+                                
+            <figure>
+                                        
+                <id>Gerry</id>
+                                        
+                <name>Gerry</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>olive</skin>
+                                        
+                <hair>black</hair>
+                                        
+                <facing>left</facing>
+                                        
+                <pose>on the clock</pose>
+                                    
+            </figure>
+                            
+        </right>
+                        
+        <setting>amazon</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <left>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                        
+                <pose>timekeeping</pose>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>En cualquier momento</content>
+                                    
+            </balloon>
+                            
+        </left>
+                        
+        <right>
+                                
+            <figure>
+                                        
+                <id>Gerry</id>
+                                        
+                <name>Gerry</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>olive</skin>
+                                        
+                <hair>black</hair>
+                                        
+                <facing>left</facing>
+                                        
+                <pose>on the clock</pose>
+                                    
+            </figure>
+                            
+        </right>
+                        
+        <setting>amazon</setting>
+                    
+    </panel>
+            
+</scene>
+
+	<scene>
+                
+    <panel>
+                        
+        <pose>catering</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>You drink -&gt; Tú bebes</content>
+                        
+        <setting>barbecue</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>carrying tray</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>He drinks -&gt; Los tragos</content>
+                        
+        <setting>bar</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>gossiping about</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>She drinks -&gt; Ella bebe</content>
+                        
+        <setting>charity event</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>drinking concoction</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>We drink -&gt; Nosotros bebemos</content>
+                        
+        <setting>sports bar</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>catering</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>You drink (plural) -&gt; Ustedes beben</content>
+                        
+        <setting>living room</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <pose>pouring coffee</pose>
+                        
+        <facing>left</facing>
+                        
+        <balloon>status=speech</balloon>
+                        
+        <content>They drink -&gt; Ellos beben</content>
+                        
+        <setting>laboratory window</setting>
+                    
+    </panel>
+            
+</scene>
+
+	<scene>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>This is amazing! I love riding!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¡Esto es increíble! ¡Me encanta montar!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>gravel path</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Whoa, whoa!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¡Whoa, whoa!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>gravel path</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Ouch, that hurt</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¡Ay, eso dolió!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>gravel path</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>What happened?</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¿Qué pasó?</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>gravel path</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Betty</id>
+                                        
+                <name>Betty</name>
+                                        
+                <appearance>female</appearance>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Just a little splash to wake you up!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Betty</id>
+                                        
+                <name>Betty</name>
+                                        
+                <appearance>female</appearance>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¡Solo un pequeño chapuzón para despertarte!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>gravel path</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Im drenched!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¡Estoy empapado!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>hospital</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Betty</id>
+                                        
+                <name>Betty</name>
+                                        
+                <appearance>female</appearance>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>And? You needed it!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <middle>
+                                
+            <figure>
+                                        
+                <id>Betty</id>
+                                        
+                <name>Betty</name>
+                                        
+                <appearance>female</appearance>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¿Y? ¡Lo necesitabas!</content>
+                                    
+            </balloon>
+                            
+        </middle>
+                        
+        <setting>hospital</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <left>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Am I really stuck in this thing?</content>
+                                    
+            </balloon>
+                            
+        </left>
+                        
+        <left>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¿Realmente estoy atrapado en esto?</content>
+                                    
+            </balloon>
+                            
+        </left>
+                        
+        <right>
+                                
+            <figure>
+                                        
+                <id>Betty</id>
+                                        
+                <name>Betty</name>
+                                        
+                <appearance>female</appearance>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Just a few more checks, Alfie</content>
+                                    
+            </balloon>
+                            
+        </right>
+                        
+        <right>
+                                
+            <figure>
+                                        
+                <id>Betty</id>
+                                        
+                <name>Betty</name>
+                                        
+                <appearance>female</appearance>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Solo unas pocas verificaciones más, Alfie</content>
+                                    
+            </balloon>
+                            
+        </right>
+                        
+        <setting>hospital</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <left>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Are you done yet?</content>
+                                    
+            </balloon>
+                            
+        </left>
+                        
+        <left>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¿Ya terminaste?</content>
+                                    
+            </balloon>
+                            
+        </left>
+                        
+        <right>
+                                
+            <figure>
+                                        
+                <id>Betty</id>
+                                        
+                <name>Betty</name>
+                                        
+                <appearance>female</appearance>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Almost there!</content>
+                                    
+            </balloon>
+                            
+        </right>
+                        
+        <right>
+                                
+            <figure>
+                                        
+                <id>Betty</id>
+                                        
+                <name>Betty</name>
+                                        
+                <appearance>female</appearance>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¡Casi estoy!</content>
+                                    
+            </balloon>
+                            
+        </right>
+                        
+        <setting>hospital</setting>
+                    
+    </panel>
+                
+    <panel>
+                        
+        <left>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>What do you plan to do with that?</content>
+                                    
+            </balloon>
+                            
+        </left>
+                        
+        <left>
+                                
+            <figure>
+                                        
+                <id>Alfie</id>
+                                        
+                <name>Alfie</name>
+                                        
+                <appearance>male</appearance>
+                                        
+                <skin>light brown</skin>
+                                        
+                <lips>red</lips>
+                                        
+                <hair>dark brown</hair>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>¿Qué piensas hacer con eso?</content>
+                                    
+            </balloon>
+                            
+        </left>
+                        
+        <right>
+                                
+            <figure>
+                                        
+                <id>Betty</id>
+                                        
+                <name>Betty</name>
+                                        
+                <appearance>female</appearance>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Just a little procedure, dont worry!</content>
+                                    
+            </balloon>
+                            
+        </right>
+                        
+        <right>
+                                
+            <figure>
+                                        
+                <id>Betty</id>
+                                        
+                <name>Betty</name>
+                                        
+                <appearance>female</appearance>
+                                        
+                <facing>right</facing>
+                                    
+            </figure>
+                                
+            <balloon status="speech">
+                                        
+                <content>Solo un pequeño procedimiento, ¡no te preocupes!</content>
+                                    
+            </balloon>
+                            
+        </right>
+                        
+        <setting>forest</setting>
+                    
+    </panel>
+            
+</scene>
+
+</comic>

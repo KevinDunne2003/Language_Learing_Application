@@ -1,0 +1,41 @@
+### Local configuration and secrets ###
+config.properties
+.env
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Compiled Java files ###
+*.class
+
+### Eclipse ###
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Operating system files ###
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+### Temporary files ###
+New Text Document.txt
+*.tmp
+*.log
